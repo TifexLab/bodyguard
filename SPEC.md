@@ -367,7 +367,7 @@ Odpovede na otvorené otázky z kapitoly 13:
 
 ## 16. Infraštruktúra
 
-- **GitHub:** https://github.com/gacikpeter1-source/bodyguard (vetva `main`)
+- **GitHub:** https://github.com/TifexLab/bodyguard (vetva `main`)
 - **Vercel:** napojený na GitHub repozitár (frontend `apps/web`).
 - **Firebase / Google Cloud projekt ID:** `bodyguard-5a327` (región EÚ, Firestore `eur3`).
 - Vývoj najprv **lokálne s Firebase Emulator Suite** (Auth, Firestore, Functions, Storage). Ostré nasadenie až keď to majiteľ povie.
