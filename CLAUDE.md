@@ -9,3 +9,6 @@ Aplikácia na vyzdvihovanie detí (MŠ / ZŠ / SKD). Zdroj pravdy je [SPEC.md](.
 
 ## Príkazy
 Doplniť po založení projektu (build, test, emulátory, deploy).
+
+## Nasadenie
+- GitHub: https://github.com/TifexLab/bodyguard, Vercel nasadzuje z tohto repozitára (frontend `apps/web`, zatiaľ neexistuje).
